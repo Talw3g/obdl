@@ -1,4 +1,4 @@
-#! /home/thibault/.virtualenvs/obd/bin/python3
+#! /usr/bin/env python3
 
 import RPi.GPIO as GPIO
 import obdl.config as config
